@@ -2,7 +2,7 @@ miCon
 =====
 
 miCon es la abreviacion de MIDI Controller que en español significa controlador MIDI.
-Basicamente este es un pequeño controlador MIDI de una escala basado en la placa Arduino UNO R3.
+Basicamente este es un pequeño controlador MIDI de una octava basado en la placa Arduino UNO R3.
 
 Consta de:
 · 12 Botones (para simular una escala cromatica)
